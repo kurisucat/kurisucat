@@ -1,8 +1,6 @@
 ### Hi! I'm KurisuCat! 🥳
-![Github](https://api.spencerwoo.com/substats/?source=github&queryKey=kurisucat)
-![Bilibili](https://api.spencerwoo.com/substats/?source=bilibili&queryKey=33413489)
-![Coolapk](https://api.spencerwoo.com/substats/?source=coolapk&queryKey=1071308)
 ![Homo](https://img.shields.io/badge/Unknown%20%E5%B2%81-%E4%BA%8B%E5%AD%A6%E7%94%9F-000000)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kurisucat&show_icons=true)
 <!--
 **kurisucat/kurisucat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
